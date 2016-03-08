@@ -7,7 +7,7 @@ paginate_path: "page-:num/"
 permalink: "post/:title/"
 
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 5
 
