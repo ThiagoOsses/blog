@@ -6,7 +6,7 @@ baseurl: "/blog"
 paginate_path: "page-:num/"
 permalink: "post/:title/"
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 gems: [jekyll-paginate]
 paginate: 5
