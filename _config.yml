@@ -13,9 +13,9 @@ paginate: 5
 
 navigation:
  - title: Página Inicial
-   url: /blog
+   url: /
  - title: Sobre
-   url: /about
+   url: /sobre
 
 social:
    github: arturcorvino
